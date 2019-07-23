@@ -39,7 +39,7 @@ Either run the 'OpenGL.exe' file in (/Debug) or compile and run the project file
 ## Built With
 
 * [GLFW 3.3](https://www.glfw.org/) - The OpenGL Library
-* [GLEW ](http://glew.sourceforge.net/) - The OpenGL Extension Wrangler Library
+* [GLEW 2.1.0](http://glew.sourceforge.net/) - The OpenGL Extension Wrangler Library
 
 ## Authors
 
